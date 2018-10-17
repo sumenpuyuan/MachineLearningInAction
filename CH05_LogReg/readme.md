@@ -13,4 +13,4 @@
 
 示例：从疝气病症预测病马的死亡率
 
-<img src="http://pgmz9e1an.bkt.clouddn.com/2018-10-17_214940.png" widht="480"/>
+<img src="http://pgmz9e1an.bkt.clouddn.com/2018-10-17_214940.png" />
