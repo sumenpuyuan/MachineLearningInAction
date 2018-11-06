@@ -1,1 +1,3 @@
-机器学习实战源码
+鏈哄櫒瀛︿範瀹炴垬婧愮爜
+
+jupyter鍔犺浇澶辫触锛屽彲浠ョ湅杩欎釜<a href="http://nbviewer.jupyter.org/github/sumenpuyuan/MachineLearningInAction/tree/master/">杩欓噷</a>
